@@ -1,0 +1,25 @@
+
+
+Grupo de usuários
+
+grp_cognito_teste
+arn:aws:cognito-idp:us-east-1:037911454825:userpool/us-east-1_EwO4cUxZ3
+
+
+DynamoDB
+
+tbl_cognito_item
+arn:aws:dynamodb:us-east-1:037911454825:table/tbl_cognito_item
+
+
+Lambda Function
+
+lmb_cognito_put_item
+arn:aws:lambda:us-east-1:037911454825:function:lmb_cognito_put_item
+
+
+API Gateway
+
+api_cognito_teste
+https://xl2f2yqmwj.execute-api.us-east-1.amazonaws.com
+
